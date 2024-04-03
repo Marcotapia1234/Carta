@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A983337D2BBC57FC00F30A05 /* VistaPedido.swift in Sources */ = {isa = PBXBuildFile; fileRef = A983337C2BBC57FC00F30A05 /* VistaPedido.swift */; };
+		A983337F2BBC59D900F30A05 /* Ayuda.swift in Sources */ = {isa = PBXBuildFile; fileRef = A983337E2BBC59D900F30A05 /* Ayuda.swift */; };
+		A98333812BBC5C0000F30A05 /* menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98333802BBC5C0000F30A05 /* menu.swift */; };
+		A98333832BBC5E7400F30A05 /* Comida.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98333822BBC5E7400F30A05 /* Comida.swift */; };
+		A98333852BBC68E500F30A05 /* DetalleComida.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98333842BBC68E500F30A05 /* DetalleComida.swift */; };
 		A9898A792BBC3DEA0009E086 /* CartaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9898A782BBC3DEA0009E086 /* CartaApp.swift */; };
 		A9898A7B2BBC3DEA0009E086 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9898A7A2BBC3DEA0009E086 /* ContentView.swift */; };
 		A9898A7D2BBC3DEE0009E086 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9898A7C2BBC3DEE0009E086 /* Assets.xcassets */; };
@@ -34,6 +39,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A983337C2BBC57FC00F30A05 /* VistaPedido.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VistaPedido.swift; sourceTree = "<group>"; };
+		A983337E2BBC59D900F30A05 /* Ayuda.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ayuda.swift; sourceTree = "<group>"; };
+		A98333802BBC5C0000F30A05 /* menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = menu.swift; sourceTree = "<group>"; };
+		A98333822BBC5E7400F30A05 /* Comida.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comida.swift; sourceTree = "<group>"; };
+		A98333842BBC68E500F30A05 /* DetalleComida.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalleComida.swift; sourceTree = "<group>"; };
 		A9898A752BBC3DEA0009E086 /* Carta.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Carta.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9898A782BBC3DEA0009E086 /* CartaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartaApp.swift; sourceTree = "<group>"; };
 		A9898A7A2BBC3DEA0009E086 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -98,6 +108,11 @@
 				A9898A7A2BBC3DEA0009E086 /* ContentView.swift */,
 				A9898A7C2BBC3DEE0009E086 /* Assets.xcassets */,
 				A9898A7E2BBC3DEE0009E086 /* Preview Content */,
+				A983337C2BBC57FC00F30A05 /* VistaPedido.swift */,
+				A983337E2BBC59D900F30A05 /* Ayuda.swift */,
+				A98333802BBC5C0000F30A05 /* menu.swift */,
+				A98333822BBC5E7400F30A05 /* Comida.swift */,
+				A98333842BBC68E500F30A05 /* DetalleComida.swift */,
 			);
 			path = Carta;
 			sourceTree = "<group>";
@@ -259,6 +274,11 @@
 			files = (
 				A9898A7B2BBC3DEA0009E086 /* ContentView.swift in Sources */,
 				A9898A792BBC3DEA0009E086 /* CartaApp.swift in Sources */,
+				A98333852BBC68E500F30A05 /* DetalleComida.swift in Sources */,
+				A98333832BBC5E7400F30A05 /* Comida.swift in Sources */,
+				A98333812BBC5C0000F30A05 /* menu.swift in Sources */,
+				A983337F2BBC59D900F30A05 /* Ayuda.swift in Sources */,
+				A983337D2BBC57FC00F30A05 /* VistaPedido.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
